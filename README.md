@@ -29,13 +29,13 @@ FILE_NAME_CONVERT = ('C:\app\CYUSA\product\21c\oradata\XE\pdbseed','C:\app\CYUSA
 
 Screenshots:
 
-Screenshot 1: PDB Creation screenshorts/pdb1_creation.png
+Screenshot 1: PDB Creation screenshots/pdb1_creation.png
 
-Screenshot 2: PDB Creation screenshorts/pdb2_creation.png
+Screenshot 2: PDB Creation screenshots/pdb2_creation.png
 
-Screenshot 3: PDB Creation screenshorts/pdb2_deletion.png
+Screenshot 3: PDB Creation screenshots/pdb2_deletion.png
 
-Screenshot 4: OEM dabshoard screenshorts/OEM_Dashboard.png
+Screenshot 4: OEM dabshoard screenshots/OEM_Dashboard.png
 
 
 ## Issues Encountered:
